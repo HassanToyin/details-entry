@@ -1,13 +1,13 @@
 public class Student {
-        private String name;
+    private String name;
 
-        private String department;
+    private String department;
 
-        private String level;
+    private String level;
 
-        private String matricNumber;
+    private String matricNumber;
 
-        private int age;
+    private int age;
 
     public String getName() {
         return name;
